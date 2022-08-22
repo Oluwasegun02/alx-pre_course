@@ -1,1 +1,1 @@
-“my second commit”
+“ALX IS GOOD”
